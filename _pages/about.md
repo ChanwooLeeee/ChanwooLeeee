@@ -15,7 +15,7 @@ Though still an undergraduate first year student, Chanwoo loves mechanical desig
 
 ## Technical Skills
 
-Chanwoo has several years of experience in the field in 3D printing, and continuously seeks to expand the number of machines he can operate.
+Chanwoo has several years of experience in the field in 3D printing and continuously seeks to expand the number of machines he can operate.
 
 * Fused Filament Fabrication (FFF)
 
