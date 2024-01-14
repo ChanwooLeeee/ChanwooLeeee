@@ -19,8 +19,11 @@ Chanwoo has several years of experience in the field in 3D printing, and continu
 
 * Fused Filament Fabrication (FFF)
 
-## Press 
+## Notable Experiences
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+Ever since his highschool years, Chanwoo has seeked to apply education into the real world in any way possible. Some of his more notable experiences are listed below.
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+* Integrity Precision Products
+   * In this metal fastener manufacturing company, Chanwoo has worked as a part-time student intern to learn how to operate various measuring tools like a shadowgram and, mainly, the CNC steel milling machine.
+* Dong Research Lab
+   * At Vanderbilt University, Chanwoo delves deeper into his interest in robotics to conduct research on microrobotics and, specifically, a dual locomotive swimming robot that can be used for underwater exploration.
