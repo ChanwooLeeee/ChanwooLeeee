@@ -18,9 +18,9 @@ feature_row:
     alt: "Syringe Pump"
     title: "Syringe Pump"
     excerpt: "A machine that exerts liquid at a given rate."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/DLSR.png
+    title: "Dual Locomotive Swimming Robot"
+    excerpt: "Robot designed to swim for environmental applications."
 ---
 
 {% include feature_row %}
