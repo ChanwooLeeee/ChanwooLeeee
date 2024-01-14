@@ -1,6 +1,6 @@
 ---
 
-title: "About Chanwooo Lee"
+title: "About Chanwoo Lee"
 
 ---
 
