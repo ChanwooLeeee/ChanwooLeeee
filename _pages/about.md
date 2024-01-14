@@ -1,28 +1,23 @@
 ---
 
-title: "About David Florian"
+title: "About Chanwooo Lee"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
+Though still an undergraduate first year student, Chanwoo loves mechanical design and using imagination to test various prototypes for a purpose. 
+
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * Expected Graduation year: 2027
+  * Expected degree: BS Mechanical Engineering
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Chanwoo has several years of experience in the field in 3D printing, and continuously seeks to expand the number of machines he can operate.
 
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
 
 ## Press 
 
