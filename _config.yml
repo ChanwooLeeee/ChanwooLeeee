@@ -16,7 +16,7 @@ title_separator          : "-"
 subtitle                 : "Undergraduate Project Portfolio"
 name                     : &name "Chanwoo Lee" # &name is a YAML anchor which can be *referenced later
 description              : &description "Undergraduate Project Portfolio "
-url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chanwooleee.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -84,7 +84,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.instagram.com/dr.dflo"
+    - "https://www.instagram.com/chanwoo.kevin.lee/"
 
 # Analytics
 analytics:
