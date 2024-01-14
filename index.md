@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Undergraduate engineering portfolio"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Chanwoo Lee is an undergraduate first year student at Vanderbilt University. Currently, he is enrolled for a degree in Mechanical Engineering, and his Github will serve as his portfolio for the projects he will participate in throughout his time as an undergraduate student."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
