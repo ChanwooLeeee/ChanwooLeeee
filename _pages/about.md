@@ -21,7 +21,7 @@ Chanwoo has several years of experience in the field in 3D printing and continuo
 
 ## Notable Experiences
 
-Ever since his highschool years, Chanwoo has seeked to apply education into the real world in any way possible. Some of his more notable experiences are listed below.
+Ever since he was a highschool student, Chanwoo has seeked to apply education into the real world in any way possible. Some of his more notable experiences are listed below.
 
 * Integrity Precision Products
    * In this metal fastener manufacturing company, Chanwoo has worked as a part-time student intern to learn how to operate various measuring tools like a shadowgram and, mainly, the CNC steel milling machine.
