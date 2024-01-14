@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Chanwoo Lee is an undergraduate first year student at Vanderbilt University. Currently, he is enrolled for a degree in Mechanical Engineering, and his Github will serve as his portfolio for the projects he will participate in throughout his time as an undergraduate student."
+excerpt: "Chanwoo Lee is an undergraduate first year student pursuing a degree in Mechanical Engineering. He will document the projects he will participate in throughout his time as an undergraduate student through his Github."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
