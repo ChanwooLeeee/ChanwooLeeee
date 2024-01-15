@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Undergraduate engineering portfolio"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,19 +8,19 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Chanwoo Lee is an undergraduate first year student pursuing a degree in Mechanical Engineering. He will document the projects he will participate in throughout his time as an undergraduate student through his Github."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/PLANTER.png
+    alt: "Planter and Greenhouse"
+    title: "Custom Planter and Greenhouse"
+    excerpt: "A planter designed to look like a castle."
+  - image_path: assets/img/Rendering-Of-Actuator (1).jpg
+    alt: "Syringe Pump"
+    title: "Syringe Pump"
+    excerpt: "A machine that exerts liquid at a given rate."
+  - image_path: assets/img/DLSR.png
+    title: "Dual Locomotive Swimming Robot"
+    excerpt: "Robot designed to swim for environmental applications."
 ---
 
 {% include feature_row %}
